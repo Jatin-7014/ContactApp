@@ -1,0 +1,14 @@
+D:\C#\ContactApp\bin\Debug\net8.0\ContactApp.exe
+D:\C#\ContactApp\bin\Debug\net8.0\ContactApp.deps.json
+D:\C#\ContactApp\bin\Debug\net8.0\ContactApp.runtimeconfig.json
+D:\C#\ContactApp\bin\Debug\net8.0\ContactApp.dll
+D:\C#\ContactApp\bin\Debug\net8.0\ContactApp.pdb
+D:\C#\ContactApp\obj\Debug\net8.0\ContactApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ContactApp\obj\Debug\net8.0\ContactApp.AssemblyInfoInputs.cache
+D:\C#\ContactApp\obj\Debug\net8.0\ContactApp.AssemblyInfo.cs
+D:\C#\ContactApp\obj\Debug\net8.0\ContactApp.csproj.CoreCompileInputs.cache
+D:\C#\ContactApp\obj\Debug\net8.0\ContactApp.dll
+D:\C#\ContactApp\obj\Debug\net8.0\refint\ContactApp.dll
+D:\C#\ContactApp\obj\Debug\net8.0\ContactApp.pdb
+D:\C#\ContactApp\obj\Debug\net8.0\ContactApp.genruntimeconfig.cache
+D:\C#\ContactApp\obj\Debug\net8.0\ref\ContactApp.dll
